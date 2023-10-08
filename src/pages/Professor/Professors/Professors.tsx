@@ -1,11 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-type Props = {}
+type Props = {};
 
 const Professors = (props: Props) => {
-  return (
-    <div>Professors</div>
-  )
-}
+  return <div>Professorsd</div>;
+};
 
-export default Professors
+export default Professors;
